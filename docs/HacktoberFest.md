@@ -5,9 +5,9 @@
 
 ## Ways to Participate
 1. Create a pull request for an issue in our participating repositories
-    - [electionguard-python](https://github.com/microsoft/electionguard-python?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [electionguard-cpp](https://github.com/microsoft/electionguard-cpp?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [electionguard-web-api](https://github.com/microsoft/electionguard-web-api?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [electionguard-python](https://github.com/microsoft/electionguard-python/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [electionguard-cpp](https://github.com/microsoft/electionguard-cpp/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [electionguard-web-api](https://github.com/microsoft/electionguard-web-api/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 
 2. Build a [Hacktoberfest Election Verifier]()
 
